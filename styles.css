@@ -1,0 +1,11 @@
+.results{
+font-size: 20px;
+display: flex;
+flex-direction:column-reverse;
+justify-content: center;
+}
+
+.text{
+    margin-top: 20px;
+    margin-left: 30px;
+}
