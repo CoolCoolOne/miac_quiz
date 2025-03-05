@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    <img src="./logo.png" alt="логотипс">
+    <img width="400px" src="./logo.png" alt="логотипс">
 
 
     <?php

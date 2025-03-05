@@ -2,7 +2,7 @@
 $host = 'VH306.spaceweb.ru';
 $db   = 'aleksey199_quiz';
 $user = 'aleksey199_quiz';
-$pass = '';
+$pass = 'xxx';
 
 // $db   = 'room';
 // $user = 'root';
